@@ -1,0 +1,30 @@
+/* ProjectList.css */
+
+.project-list {
+  font-family: Arial, sans-serif;
+}
+
+.project-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: #f9f9f9;
+}
+
+.project-card h2 {
+  margin-bottom: 5px;
+}
+
+.project-card p {
+  margin: 0;
+}
+
+.project-card p strong {
+  font-weight: bold;
+}
+
+.project-list-header {
+  font-size: 24px;
+  margin-bottom: 20px;
+  text-align: center;
+}
